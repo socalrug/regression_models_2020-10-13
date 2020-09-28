@@ -47,7 +47,7 @@ OCRUG GitHub Repo: [https://github.com/ocrug/](https://github.com/ocrug/)
 
 **You do not need to download the github repo. All files that you need will be provided on the RStudio Cloud instance.**
 
-Event Repo: [https://github.com/ocrug/regression_models_2020-10-13](https://github.com/ocrug/advanced_regression)
+Event Repo: [https://github.com/ocrug/regression_models_2020-10-13](https://github.com/ocrug/regression_models_2020-10-13)
 
 ## Slack Channel
 
