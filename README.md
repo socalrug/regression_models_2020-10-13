@@ -65,7 +65,7 @@ The channel for the course is **regression-2020**
 
 ## Twitter
 
-Please follow us on twitter, `oc_rug`, and also tweet about the event with the hash tag #OCRUG
+Please follow us on twitter, `oc_rug`, and also tweet about the event with the hash tag `#OCRUG`
 
 ## Schedule
 
