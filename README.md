@@ -11,8 +11,6 @@ We would like to use the RStudio Cloud. If you are not familiar with this techno
 
 The material covered by the workshop will be taken from my recently published book [“Advanced Regression Models with SAS and R Applications”](https://www.amazon.com/dp/1138049018/), CRC Press, 2018.
 
-**We will have a limited number of books for sale. You can purchase the book and get it signed by Dr. Olga.**
-
 ## Biography of Dr. Olga Korosteleva
 
 Dr. Olga Korosteleva, is a professor of Statistics at the Department of Mathematics and Statistics at California State University, Long Beach (CSULB). She received her Bachelor’s degree in Mathematics in 1996 from Wayne State University in Detroit, and a Ph.D. in Statistics from Purdue University in West Lafayette, Indiana, in 2002. Since then she has been teaching mostly Statistics courses in the Master’s program in Applied Statistics at CSULB, and loving it!
@@ -61,7 +59,7 @@ Once you have an account, sign in (you can do it on a web browser or download an
 
 Slack channel: [https://tinyurl.com/socalrug-slack](https://tinyurl.com/socalrug-slack)
 
-The channel for the course is **regression-2020**
+The channel for the course is `regression-2020`
 
 ## Twitter
 
