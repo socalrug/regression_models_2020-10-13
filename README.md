@@ -24,7 +24,7 @@ Dr. Olga is an undergraduate advisor for students majoring in Mathematics with a
 
 **When**: October 13, 2020 
 
-* Tuesday: 6:00 PM - 09:00 PM
+* Tuesday: 6:00 PM - 09:15 PM
 
 **Where**: 
 
@@ -33,11 +33,11 @@ This event will be held on Zoom. You will need a Zoom account in order to join. 
 **Registration**
 
 * Cost: $10
-* Register through [EventBright](https://www.eventbrite.com/e/ocrug-advanced-regression-models-with-r-applications-tickets-70416075377)
+* Register through [EventBright](https://www.eventbrite.com/e/ocrug-regression-models-with-r-applications-tickets-119384266555)
 
 ## Rules
 
-* All participants must [register for the event](https://www.eventbrite.com/e/ocrug-advanced-regression-models-with-r-applications-tickets-70416075377) and have a valid ticket to attend.
+* All participants must [register for the event](https://www.eventbrite.com/e/ocrug-regression-models-with-r-applications-tickets-119384266555) and have a valid ticket to attend.
 
 * All participants must abide by the [OCRUG Code of Conduct](https://github.com/ocrug/advanced_regression/blob/master/code-of-conduct.md), including the [R Consortium and the R Community Code of Conduct](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct).
 
