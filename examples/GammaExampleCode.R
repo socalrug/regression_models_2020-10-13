@@ -1,5 +1,4 @@
-real.estate.data<- read.csv(file="examples/GammaExampleData.csv", 
-header=TRUE, sep=",", stringsAsFactors = TRUE)
+real.estate.data<- read.csv(file="examples/GammaExampleData.csv", header=TRUE, sep=",", stringsAsFactors = TRUE)
 
 #rescaling variables
 price10K<- real.estate.data$price/10000

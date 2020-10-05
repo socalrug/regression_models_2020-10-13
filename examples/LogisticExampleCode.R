@@ -1,5 +1,4 @@
-companies.data<- read.csv(file="examples/LogisticExampleData.csv", 
-header=TRUE, sep=",", stringsAsFactors = TRUE)
+companies.data<- read.csv(file="examples/LogisticExampleData.csv", header=TRUE, sep=",", stringsAsFactors = TRUE)
 
 #specifying reference category
 approach.rel<- relevel(companies.data$approach, ref="comp")

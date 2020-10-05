@@ -1,5 +1,4 @@
-hospitalstay.data<- read.csv(file="examples/PoissonExampleData.csv", 
-                             header=TRUE, sep=",", stringsAsFactors = TRUE)
+hospitalstay.data<- read.csv(file="examples/PoissonExampleData.csv", header=TRUE, sep=",", stringsAsFactors = TRUE)
 
 #fitting Poisson model
 summary(fitted.model<- glm(days ~ gender + age + illness, 
