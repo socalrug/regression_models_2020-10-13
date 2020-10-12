@@ -96,13 +96,13 @@ Please follow us on twitter, `oc_rug`, and also tweet about the event with the h
 
 |Start|End  |Activity|
 |:---:|:---:|:------|
-|06:00|06:10|Introduction|
-|06:10|06:50|Normal Linear Regression|
-|06:50|07:30|Gamma Regression|
-|07:30|07:40|Break|
-|07:40|08:20|Logistic Regression|
-|08:20|09:00|Poisson Regression|
-|09:00|09:15|Wrap up|
+|06:30|06:40|Introduction|
+|06:40|07:20|Normal Linear Regression|
+|07:20|08:00|Gamma Regression|
+|08:00|08:10|Break|
+|08:10|08:50|Logistic Regression|
+|08:50|09:30|Poisson Regression|
+|09:30|09:45|Wrap up|
 
 # Organizers
 This event is being brought to you by the Orange Country R Users Group [OCRUG](https://www.meetup.com/OC-RUG/)
