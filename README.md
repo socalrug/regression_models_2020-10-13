@@ -54,7 +54,7 @@ You have two options for working with the code examples and exercises for the wo
 
 ### On your own computer
 1. Download and install R and RStudio (if you haven't already)
-2. Download the examples and exercises code from the workshop GitHub repository: [https://github.com/ocrug/regression\_models\_2020-10-13](https://github.com/ocrug/regression\_models\_2020-10-13)
+2. Download the examples and exercises code from the workshop GitHub repository: [https://github.com/ocrug/regression_models_2020-10-13](https://github.com/ocrug/regression_models_2020-10-13)
 	1. If you don't know how to use Git, download the course files by clicking the green "Code" button and select "Download ZIP".
 	2. If you do know how to use Git, clone the repo to your computer
 3. Unzip the files (or go to the directory where you cloned the repository), and double click the file called `regression_models_2020-10-13.Rproj`.  This will start RStudio and you can see the examples and exercises code in the two folder called examples and exercises
