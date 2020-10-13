@@ -1,0 +1,15 @@
+.medium { font-size: 125% }
+.large { font-size: 175% }
+.remark-slide-content { 
+  font-size: 175% 
+  padding 1em 4em 1em 4em
+}
+
+.col-left-wide {
+  float: left;
+  width: 67%;
+}
+.col-right-narrow {
+  float: right;
+  width: 27%;
+}
