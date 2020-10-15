@@ -18,6 +18,9 @@ Dr. Olga Korosteleva, is a professor of Statistics at the Department of Mathemat
 Dr. Olga is an undergraduate advisor for students majoring in Mathematics with an option in Statistics. She is also the faculty supervisor for the Statistics Student Association. She is also the immediate past-president of the Southern California Chapter of the American Statistical Association (SCASA). Dr. Olga is the editor-in-chief of SCASA’s monthly eNewsletter and the author (co-author) of four statistical books.
 
 
+## Link to Course Video
+Check out the course [Regression Models with R Applications](https://www.youtube.com/watch?v=nCFG3YRIWFU)
+
 ## Event Details
 
 **When**: October 13, 2020 
